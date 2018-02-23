@@ -1,0 +1,27 @@
+<module type="JAVA_MODULE" version="4">
+    <component name="NewModuleRootManager">
+        <output url="file://$MODULE_DIR$/../out/hello/test/compile/dest/classes"/>
+        <exclude-output/>
+        <content url="file://$MODULE_DIR$/../hello/test">
+            <sourceFolder url="file://$MODULE_DIR$/../hello/test/src" isTestSource="false"/>
+            <sourceFolder url="file://$MODULE_DIR$/../hello/test/resources" isTestSource="false" type="java-resource"/>
+            <excludeFolder url="file://$MODULE_DIR$/../hello/test/target"/>
+        </content>
+        <orderEntry type="inheritedJdk"/>
+        <orderEntry type="sourceFolder" forTests="false"/>
+        <orderEntry type="library" name="scala-sdk-2.12.4" level="application"/>
+        <orderEntry type="library" name="scala-library-2.12.4-sources.jar" level="project"/>
+        <orderEntry type="library" name="scala-library-2.12.4.jar" level="project"/>
+        <orderEntry type="library" name="scala-parser-combinators_2.12-1.0.4-sources.jar" level="project"/>
+        <orderEntry type="library" name="scala-parser-combinators_2.12-1.0.4.jar" level="project"/>
+        <orderEntry type="library" name="scala-reflect-2.12.4-sources.jar" level="project"/>
+        <orderEntry type="library" name="scala-reflect-2.12.4.jar" level="project"/>
+        <orderEntry type="library" name="scala-xml_2.12-1.0.5-sources.jar" level="project"/>
+        <orderEntry type="library" name="scala-xml_2.12-1.0.5.jar" level="project"/>
+        <orderEntry type="library" name="scalactic_2.12-3.0.4-sources.jar" level="project"/>
+        <orderEntry type="library" name="scalactic_2.12-3.0.4.jar" level="project"/>
+        <orderEntry type="library" name="scalatest_2.12-3.0.4-sources.jar" level="project"/>
+        <orderEntry type="library" name="scalatest_2.12-3.0.4.jar" level="project"/>
+        <orderEntry type="module" module-name="hello" exported=""/>
+    </component>
+</module>

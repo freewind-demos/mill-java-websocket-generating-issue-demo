@@ -1,0 +1,18 @@
+<module type="JAVA_MODULE" version="4">
+    <component name="NewModuleRootManager">
+        <output url="file://$MODULE_DIR$/../out/hello/compile/dest/classes"/>
+        <exclude-output/>
+        <content url="file://$MODULE_DIR$/../hello">
+            <sourceFolder url="file://$MODULE_DIR$/../hello/src" isTestSource="false"/>
+            <sourceFolder url="file://$MODULE_DIR$/../hello/resources" isTestSource="false" type="java-resource"/>
+            <excludeFolder url="file://$MODULE_DIR$/../hello/target"/>
+        </content>
+        <orderEntry type="inheritedJdk"/>
+        <orderEntry type="sourceFolder" forTests="false"/>
+        <orderEntry type="library" name="scala-sdk-2.12.4" level="application"/>
+        <orderEntry type="library" name="scala-library-2.12.4-sources.jar" level="project"/>
+        <orderEntry type="library" name="scala-library-2.12.4.jar" level="project"/>
+        <orderEntry type="library" name="scala-reflect-2.12.4-sources.jar" level="project"/>
+        <orderEntry type="library" name="scala-reflect-2.12.4.jar" level="project"/>
+    </component>
+</module>

@@ -1,0 +1,7 @@
+<component name="libraryTable">
+    <library name="mill-scalajslib_2.12-0.1-SNAPSHOT.jar">
+        <CLASSES>
+            <root url="jar:///Users/freewind/workspace/mill/scalajslib/target/scala-2.12/mill-scalajslib_2.12-0.1-SNAPSHOT.jar!/"/>
+        </CLASSES>
+    </library>
+</component>
