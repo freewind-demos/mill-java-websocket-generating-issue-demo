@@ -3,7 +3,7 @@
         <output url="file://$MODULE_DIR$/../out/hello/compile/dest/classes"/>
         <exclude-output/>
         <content url="file://$MODULE_DIR$/../hello">
-            <sourceFolder url="file://$MODULE_DIR$/../hello/src" isTestSource="false"/>
+            <sourceFolder url="file://$MODULE_DIR$/../../mill-hello-world-demo/hello/src" isTestSource="false"/>
             <sourceFolder url="file://$MODULE_DIR$/../hello/resources" isTestSource="false" type="java-resource"/>
             <excludeFolder url="file://$MODULE_DIR$/../hello/target"/>
         </content>
