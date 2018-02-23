@@ -18,3 +18,8 @@ Generate IDEA project:
 ```
 mill.scalalib.GenIdeaModule/idea
 ```
+
+Issue
+-----
+
+There is `ivy"org.java-websocket:Java-WebSocket:1.3.7"` in `build.sc`, but when generate IDEA files by `mill mill.scalalib.GenIdeaModule/idea`, the generated library xml file doesn't contain it, see `.idea/libraries/`(they are added to git)
